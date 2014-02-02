@@ -1,4 +1,4 @@
-jellyreader
+jellyreader: delicious
 ===========
 
 ![app screenshot](http://nimbusbase.github.io/jellyreader/app_screenshot.png)
